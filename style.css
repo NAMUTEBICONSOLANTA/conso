@@ -2,8 +2,9 @@ body{
     background-color: gray;
     
 }
-.list-group-item{
+.group-item{
     border: none;
+    list-style: none;
     
 }
 .main-body{
