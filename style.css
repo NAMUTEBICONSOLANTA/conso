@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    
+}
+.list-group-item{
+    border: none;
+    
+}
+.main-body{
+    display: flex;
+    justify-content: space-between ;
+    padding: 20px;
+
+}
+.upper-raw{
+    justify-content: space-between;
+}
+.cards{
+    background-color: white;
+    padding: 20px;
+}
